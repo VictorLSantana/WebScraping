@@ -8,5 +8,5 @@ Para melhor interação e exploração desse projeto faça o download do arquivo
 
 [![dlgithub.png](https://i.postimg.cc/PqGTXYzD/dlgithub.png)](https://postimg.cc/BjCdN8zZ)
 
- # Link do DashBoard Interativo
+ # Link do DashBoard Interativo 📊
  https://app.powerbi.com/view?r=eyJrIjoiZWQ4Y2YzOTktOTA2ZC00OGRlLTk5YWQtMDg3Y2MxYTUyZTY2IiwidCI6ImQ3ZGRhNWJiLTQ4MTAtNDY5Yi1hNjgxLTdlMWJjNGI4NGNlOSJ9
